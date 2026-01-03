@@ -2,4 +2,6 @@ flask==3.0.0
 flask-cors==4.0.0
 httpx==0.27.0
 snowflake-connector-python==3.6.0
+google-cloud-aiplatform==1.38.0
+vertexai==1.38.0
 gunicorn==21.2.0
