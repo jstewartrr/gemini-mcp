@@ -38,7 +38,7 @@ SM_GATEWAY_URL = os.environ.get("SM_GATEWAY_URL", "https://sm-mcp-gateway.lemonc
 
 SNOWFLAKE_ACCOUNT = os.environ.get("SNOWFLAKE_ACCOUNT", "dma22041.us-east-1")
 SNOWFLAKE_USER = os.environ.get("SNOWFLAKE_USER", "JOHN_CLAUDE")
-SNOWFLAKE_PASSWORD = os.environ.get("SNOWFLAKE_PASSWORD", "")
+SNOWFLAKE_PASSWORD = os.environ.get("SNOWFLAKE_PASSWORD", "Middleground986959")
 SNOWFLAKE_DATABASE = os.environ.get("SNOWFLAKE_DATABASE", "SOVEREIGN_MIND")
 SNOWFLAKE_WAREHOUSE = os.environ.get("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
 
